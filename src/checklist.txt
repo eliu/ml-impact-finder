@@ -1,0 +1,13 @@
+item		status
+----------	--------
+db_objects	ok
+conc. prog	ok
+value sets	ok
+dff		ok
+kff		ok
+alert		ok
+discoverer	ok
+reports		ok
+forms		ok
+
+
